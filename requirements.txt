@@ -1,4 +1,6 @@
-﻿joblib==1.4.2
-numpy==1.24.2
+﻿pip==24.2
+setuptools
+joblib==1.4.2
+numpy==1.25.0
 pandas==1.5.3
 scikit-learn
